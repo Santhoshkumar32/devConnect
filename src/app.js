@@ -3,7 +3,7 @@
  const User= require("./models/user")
 
  const app= express();
- const PORT= 4444;
+ const PORT= 5000;
 
 
  app.post("/signup", async (req,res)=>{
