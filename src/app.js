@@ -10,9 +10,9 @@
 
    //creating a new instance of a user modal
    const user= new User({
-      firstName: "Naveen",
+      firstName: "santhosh",
       lastName: "Kumar",
-      emailId: "naveen1803@gmail.com",
+      emailId: "santhosh@gmail.com",
       password: "sdfiowef"
    })
    
